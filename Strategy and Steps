@@ -51,3 +51,32 @@ A robust and diverse dataset with:
 Clean images and their degraded counterparts.
 Sufficient examples for each enhancement task.
 Well-balanced train-validation-test splits to ensure reliable performance evaluation.
+
+
+
+data/
+    denoising/
+        train/
+        val/
+        test/
+    super_resolution/
+        train/
+        val/
+        test/
+    colorization/
+        train/
+        val/
+        test/
+    inpainting/
+        train/
+        val/
+        test/
+
+
+
+
+
+
+
+
+
