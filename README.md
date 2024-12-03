@@ -12,7 +12,7 @@ Restormer is a state-of-the-art transformer-based model designed specifically fo
 It performs exceptionally well on diverse datasets and handles noise better than CNN-based methods like DnCNN.
 It is lightweight and efficient, suitable for real-time applications.
 
-**Use Case in Your Application:** Removes noise from grainy, low-quality images, making them clearer for downstream tasks.
+**Use Case in Application:** Removes noise from grainy, low-quality images, making them clearer for downstream tasks.
 
 **2. Inpainting**
 
@@ -24,7 +24,7 @@ DeepFill v2 is a generative model that uses gated convolutions for more accurate
 It seamlessly fills in missing regions with context-aware results.
 Well-documented and used in real-world applications like photo restoration.
 
-**Use Case in Your Application:** Repairs missing or occluded sections of images, such as scratches, tears, or damaged areas.
+**Use Case in Application:** Repairs missing or occluded sections of images, such as scratches, tears, or damaged areas.
 
 **3. Super-Resolution**
 
