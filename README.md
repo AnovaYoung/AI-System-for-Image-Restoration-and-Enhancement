@@ -1,4 +1,4 @@
-**Data Cleaning and Preparation for Modeling**
+## Data Cleaning and Preparation for Modeling
 
 Overview of Data Cleaning and Preparation
 High-level plan for cleaning and preparation:
@@ -35,3 +35,6 @@ Apply augmentations such as random cropping, flipping, rotation, or noise additi
 Save Cleaned Data:
 
 Save the preprocessed dataset into organized directories or a new zip file for easy retrieval during training.
+
+
+## Models Prepared Seperately
