@@ -28,8 +28,8 @@ Super-resolution has practical applications in fields like image restoration, me
 
 ## Results
 The model achieved the following average metrics:
-- **PSNR**: XX.X dB
-- **SSIM**: 0.XXXX
+- **PSNR**: 24.1 dB
+- **SSIM**: 0.88
 - Performance was visualized on test samples, showing clear improvements but also highlighting challenges with fine texture recovery.
 
 ---
